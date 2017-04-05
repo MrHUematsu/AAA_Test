@@ -3,6 +3,9 @@ import java.math.BigDecimal;
 public class Test {
 	public static void main(String[] args) {
 		String Test = "テスト変更！";
+		if (Test != null) {
+			Test = "NULL jya naiyo";
+		}
 		// ----------------------------------------
 		// 計算処理（整数（short型））
 		// ----------------------------------------
