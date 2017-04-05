@@ -2,6 +2,7 @@ import java.math.BigDecimal;
 
 public class Test {
 	public static void main(String[] args) {
+		String Test = "テスト変更！";
 		// ----------------------------------------
 		// 計算処理（整数（short型））
 		// ----------------------------------------
